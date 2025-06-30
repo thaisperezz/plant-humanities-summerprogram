@@ -18,6 +18,9 @@ jjjj
 | Header | Title |
 | Paragraph | Text |
 
+
+`image wc:Erythroxylum_coca_-_Köhler–s_Medizinal-Pflanzen-204.jpg`
+
 Here's a sentence with a footnote. [^1]
 
 these words are ==super important==
