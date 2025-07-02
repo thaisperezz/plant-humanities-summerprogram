@@ -31,11 +31,12 @@ I wonder what we are going to be doing next! This is so so fun I am just writing
 
 <param ve-image
 	   src="gh:thaisperezz/plant-humanities-summerprogram/main/session-2/Camellia Sinensus_IMG_2.jpg"
-	   caption="Here is a *Camellia Sinensus*.">
+	   caption="Here is a *Camellia Sinensus* https://www.americanscientist.org/sites/americanscientist.org/files/2019-107-4-206-botanycorner-1-natural.jpg.">
 			
 			
 Ok so now that we have done a comparative viewer, we are going to try something else: a footnote. [^1]
-
+<param ve-video
+	   src="xi5yNQDEYSc&">
 
 
 			
