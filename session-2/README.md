@@ -28,8 +28,9 @@ Ok so now we are going to do a comparative view of the *Camellia Sinensus*, whic
 	   
 	   
 I wonder what we are going to be doing next! This is so so fun I am just writing words to create a paragraph. That's very funny is it not, I wonder what's going to happen next. This is so funny because I am just writing random words ha. ha. ha. Good luck next time, I wonder why I chose to have a pink waterbottle. Coffee is great!
+
 <param ve-image
-	   src="gh:thaisperezz/plant-humanities-summerprogram/main/session-2/Camellia Sinensus_IMG_2.jpeg"
+	   src="gh:thaisperezz/plant-humanities-summerprogram/main/session-2/Camellia Sinensus_IMG_2.jpg"
 	   caption="Here is a *Camellia Sinensus*.">
 			
 			
