@@ -27,5 +27,10 @@ Ok so now we are going to do a comparative view of the *Camellia Sinensus*, whic
 	   src="wc:Camellia sinensis チャ、チャノキ.jpg">
 I wonder what we are going to be doing next! This is so so fun I am just writing words to create a paragraph. That's very funny is it not, I wonder what's going to happen next. This is so funny because I am just writing random words ha. ha. ha. Good luck next time, I wonder why I chose to have a pink waterbottle. Coffee is great!
 <param ve-image
-	   url="
-Ok so now that we have done a comparative viewer, we are going to try something else: a timeline. 
+	   src="gh:thaisperezz/plant-humanities-summerprogram/main/session-2/Camellia Sinensus_IMG_2.jpeg"
+	   caption="Here is a *Camellia Sinensus*."
+			
+			
+Ok so now that we have done a comparative viewer, we are going to try something else: a timeline. [^1]
+			
+[^1]: Here is the first footnote.
