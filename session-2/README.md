@@ -40,7 +40,7 @@ Ok so now that we have done a comparative viewer, we are going to try something 
 	   
 Here is a primary source. I am just gonna try this because it didn't work before.This is a separate primary source called *Delle navigationi et viaggi* by Giovanni Battista Ramusio.
 <param ve-iframe
-	   src:"https://archive.org/details/secundovolumedel00ramu/page/n37/">
+	   src="https://archive.org/details/secundovolumedel00ramu/page/n37/">
 	   
 			
 [^1]: Here is the first footnote.
