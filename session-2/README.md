@@ -26,13 +26,11 @@ Ok so now we are going to do a comparative view of the *Camellia Sinensus*, whic
 <param ve-compare
 	   src="wc:Camellia sinensis チャ、チャノキ.jpg">
 	   
-	   
 I wonder what we are going to be doing next! This is so so fun I am just writing words to create a paragraph. That's very funny is it not, I wonder what's going to happen next. This is so funny because I am just writing random words ha. ha. ha. Good luck next time, I wonder why I chose to have a pink waterbottle. Coffee is great!
 
 <param ve-image
 	   src="gh:thaisperezz/plant-humanities-summerprogram/main/session-2/Camellia Sinensus_IMG_2.jpg"
 	   caption="Here is a *Camellia Sinensus* https://www.americanscientist.org/sites/americanscientist.org/files/2019-107-4-206-botanycorner-1-natural.jpg.">
-			
 			
 Ok so now that we have done a comparative viewer, we are going to try something else: a footnote. [^1]
 <param ve-video
@@ -40,9 +38,7 @@ Ok so now that we have done a comparative viewer, we are going to try something 
 	   start="18"
 	   caption="This is a video detailing how to harvest *Camellia Sinensus*.">
 	   
-	   
 Here is a primary source. I am just gonna try this because it didn't work before.This is a separate primary source called *Delle navigationi et viaggi* by Giovanni Battista Ramusio.
-
 <param ve-iframe
 	   src:"https://archive.org/details/secundovolumedel00ramu/page/n37/">
 	   
