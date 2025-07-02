@@ -36,7 +36,8 @@ I wonder what we are going to be doing next! This is so so fun I am just writing
 			
 Ok so now that we have done a comparative viewer, we are going to try something else: a footnote. [^1]
 <param ve-video
-	   src="xi5yNQDEYSc&authuser=0">
+	   src="xi5yNQDEYSc"
+	   start="0:18">
 
 
 			
