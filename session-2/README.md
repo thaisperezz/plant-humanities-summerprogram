@@ -37,9 +37,12 @@ I wonder what we are going to be doing next! This is so so fun I am just writing
 Ok so now that we have done a comparative viewer, we are going to try something else: a footnote. [^1]
 <param ve-video
 	   src="xi5yNQDEYSc"
-	   start="0:18">
+	   start="18"
+	   caption="This is a video detailing how to harvest *Camellia Sinensus*.">
 
-
+Here is a primary source.
+<param ve-iframe
+	   src:"https://archive.org/details/secundovolumedel00ramu/page/n37/">
 			
 [^1]: Here is the first footnote.
 	   
