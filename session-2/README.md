@@ -31,6 +31,7 @@ I wonder what we are going to be doing next! This is so so fun I am just writing
 	   caption="Here is a *Camellia Sinensus*."
 			
 			
-Ok so now that we have done a comparative viewer, we are going to try something else: a timeline. [^1]
+Ok so now that we have done a comparative viewer, we are going to try something else: a footnote. [^1]
 			
 [^1]: Here is the first footnote.
+	   
