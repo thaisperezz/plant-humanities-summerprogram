@@ -10,6 +10,6 @@ layout="vertical">
 
 Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun. Today we are learning how to make a timeline that will be very fun.
 <param ve-image
-	   src="wc: Tea plant (Camellia sinensis); flowering stem with sectioned Wellcome V0044086.jpg"
+	   src="wc:Tea plant (Camellia sinensis); flowering stem with sectioned Wellcome V0044086.jpg"
 	   caption="This is a really cool botanical illustration of the teaplant.">
 	   
