@@ -14,3 +14,6 @@ The nineteenth century, a century of battle and revolution, also marked tea as a
 
 One of the colonies Portugal desired to utilize for tea plantations, was Brazil. Its land was fruitful and filled with laborers, which would allow for the smooth start of Portuguese plantations in South America. With the invasion of Franco-Spanish forces in 1808, the Portuguese royal family fled to Brazil with particular interest in science and botany. 
 
+<param ve-image
+	   src="wc:Peninsular war collage.jpg"
+	   caption="This is a collage of various artworks depicting battle scenes from the Peninsular War.">
