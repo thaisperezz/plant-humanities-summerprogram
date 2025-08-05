@@ -39,7 +39,10 @@ Across the world, Georgia was prompted to acquire the *Camellia Sinensis*. In th
 <param ve-image
 	   src="wc:Tea plantations in Chakva.jpg"
 	   caption="Georgian tea plantation between 1905 and 1915.">
-
+<param ve-image
+	   src="wc:Physical Map of Georgia (Stripped) (en).svg"
+	   caption="Map of Georgia.">
+Georgia became a tea-exporting powerhouse during the nineteenth century, and later became a primary asset of the Soviet Union. The tea plantations created in the 1800s would set the stage for Georgian plantations today, 
 
 			
 [^1]: Mügge, F.L.B., Prates, S.M.S., de Paula-Souza, J., Brandão, M.G.L. (2021). Bioactive Potential of Brazilian Plants Used as Food with Emphasis on Leaves and Roots. In: Jacob, M.C.M., Albuquerque, U.P. (eds) Local Food Plants of Brazil. Ethnobiology. Springer, Cham. https://doi.org/10.1007/978-3-030-69139-4_5
