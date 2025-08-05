@@ -27,10 +27,15 @@ The end of the Napoleonic wars almost collapsed the production of Portuguese tea
 	   src="fMNxJ55knA0"
 	   start=":30"
 	   end="1:02"
-	   caption="This is a video detailing how to harvest *Camellia Sinensus*.">
-
-
+	   caption="This is a video detailing how *Camellia Sinensus* arrived in Brazil from China.">
+	   
+However, the story of the *Camellia Sinensis* in Brazil does not end with the nineteenth century. The plant now exists in the Atlantic Forest, where it has begun outcompeting native species from the genera *Rubiaceae*, *Piperaceae*, and *Melastomataceae*, all crucial parts of the Brazilian ecosystem. While the tea plant has not yet been labeled as 'invasive,' studies have begun demonstrating its potential for subduing native plants. [^3] Tea has left a permanent imprint on Brazilian soil, and the creation of nineteenth century plantations left a lasting legacy on the environments that surrounded them. 
+<param ve-image
+	   src="wc:Atlantic forest, northeastern Bahia, Brazil (6774206040).jpg"
+	   caption="A scene from the Atlantic Forest.">
+	   
 
 			
 [^1]: Mügge, F.L.B., Prates, S.M.S., de Paula-Souza, J., Brandão, M.G.L. (2021). Bioactive Potential of Brazilian Plants Used as Food with Emphasis on Leaves and Roots. In: Jacob, M.C.M., Albuquerque, U.P. (eds) Local Food Plants of Brazil. Ethnobiology. Springer, Cham. https://doi.org/10.1007/978-3-030-69139-4_5
 [^2]: Guilherme Medeiros Antar, Roberto Baptista Pereira Almeida, Marco Antonio Palomares Accardo-Filho, Rafael Gomes Barbosa-Silva (2022) Tracking Brazil’s Colonization Footprints: First record of the tea plant (Camellia sinensis (L.) Kuntze - Theaceae) naturalized in the Atlantic Forest Hotspot. Webbia. Journal of Plant Taxonomy and Geography 77(1): 177-183. doi: 10.36253/jopt-12854
+[^3]: Guilherme Medeiros Antar, Roberto Baptista Pereira Almeida, Marco Antonio Palomares Accardo-Filho, Rafael Gomes Barbosa-Silva (2022) Tracking Brazil’s Colonization Footprints.
