@@ -16,7 +16,7 @@ The nineteenth century, a century of battle and revolution, also marked tea as a
 	   caption="Nineteenth century British map of Brazil.">
 	   
 
-One of the colonies Portugal desired to utilize for tea plantations, was Brazil. Its land was fruitful and filled with laborers, which would allow for the smooth start of Portuguese plantations in South America. With the invasion of Franco-Spanish forces in 1808, the Portuguese royal family fled to Brazil with particular interest in science and botany. [^1] Portuguese curiosity in botany would spur interest in the development of tea plantations, and the beginning of negotiations with the Chinese government to facilitate the journey of tea plant seed over to Brazil.
+One of the colonies Portugal desired to utilize for tea plantations was Brazil. Its land was fruitful and filled with laborers, which would allow for the smooth start of Portuguese plantations in South America. With the invasion of Franco-Spanish forces in 1808, the Portuguese royal family fled to Brazil with particular interest in science and botany. [^1] Portuguese curiosity in botany would spur interest in the development of tea plantations, and the beginning of negotiations with the Chinese government to facilitate the journey of tea plant seed over to Brazil.
 
 <param ve-image
 	   src="wc:Peninsular war collage.jpg"
@@ -29,13 +29,16 @@ The end of the Napoleonic wars almost collapsed the production of Portuguese tea
 	   end="1:02"
 	   caption="This is a video detailing how *Camellia Sinensus* arrived in Brazil from China.">
 	   
-However, the story of the *Camellia Sinensis* in Brazil does not end with the nineteenth century. The plant now exists in the Atlantic Forest, where it has begun outcompeting native species from the genera *Rubiaceae*, *Piperaceae*, and *Melastomataceae*, all crucial parts of the Brazilian ecosystem. While the tea plant has not yet been labeled as 'invasive,' studies have begun demonstrating its potential for subduing native plants. [^3] Tea has left a permanent imprint on Brazilian soil, and the creation of nineteenth century plantations left a lasting legacy on the environments that surrounded them. 
+However, the story of the *Camellia Sinensis* in Brazil does not end with the nineteenth century. Even though many plantations from Brazil were abandoned in the 1800s, the plant now exists in the Atlantic Forest, where it has begun outcompeting native species from the genera *Rubiaceae*, *Piperaceae*, and *Melastomataceae*, all crucial parts of the Brazilian ecosystem. While the tea plant has not yet been labeled as 'invasive,' studies have begun demonstrating its potential for subduing native plants. [^3] Tea has left a permanent imprint on Brazilian soil, and the creation of nineteenth century plantations left a lasting legacy on the environments that surrounded them. 
+
 <param ve-image
 	   src="wc:Atlantic forest, northeastern Bahia, Brazil (6774206040).jpg"
 	   caption="A scene from the Atlantic Forest.">
-	   
+
+Across the world, Georgia was prompted to acquire the *Camellia Sinensis*. In the 1830s, Prince Miha Eristavi traveled to China, returning to Georgia with smuggled tea seeds. Impressed by the taste of the plant, he harvested it himself, and used his seeds to begin the first tea plantations in Georgia. [^4] 
 
 			
 [^1]: Mügge, F.L.B., Prates, S.M.S., de Paula-Souza, J., Brandão, M.G.L. (2021). Bioactive Potential of Brazilian Plants Used as Food with Emphasis on Leaves and Roots. In: Jacob, M.C.M., Albuquerque, U.P. (eds) Local Food Plants of Brazil. Ethnobiology. Springer, Cham. https://doi.org/10.1007/978-3-030-69139-4_5
 [^2]: Guilherme Medeiros Antar, Roberto Baptista Pereira Almeida, Marco Antonio Palomares Accardo-Filho, Rafael Gomes Barbosa-Silva (2022) Tracking Brazil’s Colonization Footprints: First record of the tea plant (Camellia sinensis (L.) Kuntze - Theaceae) naturalized in the Atlantic Forest Hotspot. Webbia. Journal of Plant Taxonomy and Geography 77(1): 177-183. doi: 10.36253/jopt-12854
 [^3]: Guilherme Medeiros Antar, Roberto Baptista Pereira Almeida, Marco Antonio Palomares Accardo-Filho, Rafael Gomes Barbosa-Silva (2022) Tracking Brazil’s Colonization Footprints.
+[^4]: Carr, M. K. V. "The World of Tea: A Geriatric Problem." Chapter. In Advances in Tea Agronomy, 11–34. Cambridge: Cambridge University Press, 2018.
