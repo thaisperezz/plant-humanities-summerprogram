@@ -23,7 +23,11 @@ One of the colonies Portugal desired to utilize for tea plantations, was Brazil.
 	   caption="This is a collage of various artworks depicting battle scenes from the Peninsular War.">
 	   
 The end of the Napoleonic wars almost collapsed the production of Portuguese tea in Brazil, with Dom John VI returning to Lisbon in 1821 to sooth political discord. [^2] Without a strong leader supporting the industry, efforts to maintain it failed, despite small successful pushes between 1820 and 1830. A destructive fungi, from the genus *Ceratobasidium* D.P.Rogers, which injures young plants, was the final nail in the coffin. Ultimately, it prevented the success of colonial tea plantations in Brazil for years to come. 
-
+<param ve-video
+	   src="fMNxJ55knA0"
+	   start=":30"
+	   end="1:02"
+	   caption="This is a video detailing how to harvest *Camellia Sinensus*.">
 
 
 
