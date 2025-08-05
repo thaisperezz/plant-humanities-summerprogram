@@ -35,7 +35,11 @@ However, the story of the *Camellia Sinensis* in Brazil does not end with the ni
 	   src="wc:Atlantic forest, northeastern Bahia, Brazil (6774206040).jpg"
 	   caption="A scene from the Atlantic Forest.">
 
-Across the world, Georgia was prompted to acquire the *Camellia Sinensis*. In the 1830s, Prince Miha Eristavi traveled to China, returning to Georgia with smuggled tea seeds. Impressed by the taste of the plant, he harvested it himself, and used his seeds to begin the first tea plantations in Georgia. [^4] 
+Across the world, Georgia was prompted to acquire the *Camellia Sinensis*. In the 1830s, Prince Miha Eristavi traveled to China, returning to Georgia with smuggled tea seeds. Impressed by the taste of the plant, he harvested it himself, and used his seeds to begin the first tea plantations in Georgia. [^4] While these preliminary tea plantations were largely unsuccessful, with the help of Russia's imperial strength, the 1860s saw massive growth in the Georgian tea industry. 
+<param ve-image
+	   src="wc:Tea plantations in Chakva.jpg"
+	   caption="Georgian tea plantation between 1905 and 1915.">
+
 
 			
 [^1]: Mügge, F.L.B., Prates, S.M.S., de Paula-Souza, J., Brandão, M.G.L. (2021). Bioactive Potential of Brazilian Plants Used as Food with Emphasis on Leaves and Roots. In: Jacob, M.C.M., Albuquerque, U.P. (eds) Local Food Plants of Brazil. Ethnobiology. Springer, Cham. https://doi.org/10.1007/978-3-030-69139-4_5
