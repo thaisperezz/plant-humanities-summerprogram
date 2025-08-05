@@ -50,6 +50,7 @@ Georgia became a tea-exporting powerhouse during the nineteenth century, and lat
 	   end="2:05"
 	   caption="This is a video showing current Georgian tea-planters attempting to revive tea production to Soviet scales.">
 
+Georgian tea plantations face battles that are not uncommon in tea plantations globally; issues of sustainability and welfare of the *Camellia Sinensis* are persistent. 
 			
 [^1]: Mügge, F.L.B., Prates, S.M.S., de Paula-Souza, J., Brandão, M.G.L. (2021). Bioactive Potential of Brazilian Plants Used as Food with Emphasis on Leaves and Roots. In: Jacob, M.C.M., Albuquerque, U.P. (eds) Local Food Plants of Brazil. Ethnobiology. Springer, Cham. https://doi.org/10.1007/978-3-030-69139-4_5
 [^2]: Guilherme Medeiros Antar, Roberto Baptista Pereira Almeida, Marco Antonio Palomares Accardo-Filho, Rafael Gomes Barbosa-Silva (2022) Tracking Brazil’s Colonization Footprints: First record of the tea plant (Camellia sinensis (L.) Kuntze - Theaceae) naturalized in the Atlantic Forest Hotspot. Webbia. Journal of Plant Taxonomy and Geography 77(1): 177-183. doi: 10.36253/jopt-12854
