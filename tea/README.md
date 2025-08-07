@@ -53,8 +53,25 @@ Georgia became a tea-exporting powerhouse during the nineteenth century, and lat
 	   src="wc:1951 CPA 1603.jpg"
 	   caption="Soviet postage stamp showcasing Georgian tea harvest, 1951.">
 
+The nineteenth century also jumpstarted a shift toward monoculture plantations which can have negative effects on local flora and fauna. (Krol) Land-use changes molded the Georgian environmental landscape to fit the monoculture model, making the ecosystem more vulnerable to disease, pests, and erosion. Despite the decline in tea production at the end of the twentieth century, tea plantations from nineteenth century Georgia have left a legacy.
+<param ve-image
+	   src="wc:Prokudin-Gorsky. Tea plantations. Chakva.jpg"
+	   caption="Tea plantation in Chakva.">
 
+The present-day introduction of chemical and mineral inputs poses serious concerns to the Georgian tea industry. The use of pesticides and herbicides to combat the spread of weeds and pests is a threat to clean water sources, biodiversity, and human/animal health in Georgia. Fertilizer usage, especially mineral-based manuring, is a high environmental risk for the soil, water, and humans that surround the plantation. Outside of chemical inputs, irrigational damage on plantations in Georgia can bring high environmental hazards. The water source and the design of these systems can perpetuate the degradation of soil and unsustainable water usage. 
+<param ve-image
+	   src="wc:08 - tea collection near Achigvara.jpg"
+	   caption="Tea collection in Achigvara.">
 
+With these issues in mind, many Georgian plantations have begun integrating more sustainable practices. A rush of plantations have integrated organic farming practices, refusing to use chemical fertilizers and pesticides which presented risks to the local ecosystems. Artisanal tea planting, where tea is produced in smaller batches on smaller pieces of land. The United Nations Development Program and the European Union have given aid to Georgian farmers, particularly smaller tea producers, to help transition them to use environmentally-conscious production practices and packaging. While these initiatives do not address all of the issues presented by plantations, producers and governmental agencies are more optimistic about the future of sustainably produced and managed Georgian tea plantations. Plantations will continue to grapple with questions of sustainability and attempt to integrate better alternatives to their current problems.
+<param ve-video
+	   src="rtOcy8zVbHU"
+	   start="3:35"
+	   end="5:14"
+	   caption="This is a video that highlights new sustainable practices integrated by Georgian tea plantations.">
+<param ve-image
+	   src="wc:Group of workers harvesting tea Chakva Prokudin-Gorsky.jpg"
+	   caption="Early twentieth century image of Georgian tea planters in Chakva.">
 			
 [^1]: Mügge, F.L.B., Prates, S.M.S., de Paula-Souza, J., Brandão, M.G.L. (2021). Bioactive Potential of Brazilian Plants Used as Food with Emphasis on Leaves and Roots. In: Jacob, M.C.M., Albuquerque, U.P. (eds) Local Food Plants of Brazil. Ethnobiology. Springer, Cham. https://doi.org/10.1007/978-3-030-69139-4_5
 [^2]: Guilherme Medeiros Antar, Roberto Baptista Pereira Almeida, Marco Antonio Palomares Accardo-Filho, Rafael Gomes Barbosa-Silva (2022) Tracking Brazil’s Colonization Footprints: First record of the tea plant (Camellia sinensis (L.) Kuntze - Theaceae) naturalized in the Atlantic Forest Hotspot. Webbia. Journal of Plant Taxonomy and Geography 77(1): 177-183. doi: 10.36253/jopt-12854
