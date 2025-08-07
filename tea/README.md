@@ -85,9 +85,8 @@ The meaning of tea is variable, it shifts across time and space, changing with t
 	    center="18, 0"
 	     zoom="1"
 	     title="This is a map showcasing the different locations discussed in this article.">
-
 <param ve-map-layer geojson
-	        url="https://github.com/thaisperezz/plant-humanities-summerprogram/blob/main/tea-map.json"
+	        url="https://raw.githubusercontent.com/thaisperezz/plant-humanities-summerprogram/refs/heads/main/tea-map.json"
 	          show-labels
 	          stroke-width="0">
 
