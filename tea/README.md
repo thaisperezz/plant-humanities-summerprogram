@@ -86,6 +86,10 @@ The meaning of tea is variable, it shifts across time and space, changing with t
 	     zoom="1"
 	     title="This is a map showcasing the different locations discussed in this article.">
 
+<param ve-map-layer geojson
+	        url="https://github.com/thaisperezz/plant-humanities-summerprogram/blob/main/tea-map.json"
+	          show-labels
+	          stroke-width="0">
 
 Despite all of the separate transformations the plant has undergone, the Camellia Sinensis continues to exist ubiquitously in cultures globally. Historically, the plant changed the tides of wars and empires, and today it moves more subtly through daily routines and cultures. Today’s tea rituals continue to carry the weight of the nineteenth century, and despite this, the plant itself has remained resilient. Even through centuries of war and environmental destruction, the Camellia Sinensis lives on in plantations, gardens, labs, and even homes. While its meaning has changed over time, in different settings, the plant has remained a potent piece of human life and history. Every pot steeped and every kettle poured is more evidence of the enduring legacy of this influential plant. 
 
