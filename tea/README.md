@@ -91,6 +91,11 @@ The meaning of tea is variable, it shifts across time and space, changing with t
 	          stroke-width="0">
 
 Despite all of the separate transformations the plant has undergone, the Camellia Sinensis continues to exist ubiquitously in cultures globally. Historically, the plant changed the tides of wars and empires, and today it moves more subtly through daily routines and cultures. Today’s tea rituals continue to carry the weight of the nineteenth century, and despite this, the plant itself has remained resilient. Even through centuries of war and environmental destruction, the Camellia Sinensis lives on in plantations, gardens, labs, and even homes. While its meaning has changed over time, in different settings, the plant has remained a potent piece of human life and history. Every pot steeped and every kettle poured is more evidence of the enduring legacy of this influential plant. 
+<param ve-compare
+	   src="gh:thaisperezz/plant-humanities-summerprogram/main/session-2/Camellia Sinensus_IMG_1.jpeg"
+	   caption="This is the compare viewer of a botanical illustration of *Camellia sinensus* and a true visual of the plant.">
+<param ve-compare
+	   src="wc:Camellia sinensis チャ、チャノキ.jpg">
 
 The Camellia Sinensis has evolved from its early beginnings in Europe as a luxury drink. ‘Tea’ today can refer to matcha, sweet tea, bubble tea, chai, or the various herbal teas that exist in kitchen cabinets nowadays. Many cultures use tea in foods like Chinese tea-smoked duck and the Japanese Ochazuke, where green tea is poured over rice, or even green tea ice cream from modern-day grocery stores. Perhaps it is the taste of this plant or its deep ties to culture that continuously draw human attention. Regardless of whether it is raspberry green tea or the crates of tea that launched the Boston Tea Party, the tea plant has remained the same. The only difference is the multilayered meanings now attached to it: culturally, economically, and politically.
 <param ve-image
