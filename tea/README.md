@@ -85,7 +85,15 @@ The meaning of tea is variable, it shifts across time and space, changing with t
 Despite all of the separate transformations the plant has undergone, the Camellia Sinensis continues to exist ubiquitously in cultures globally. Historically, the plant changed the tides of wars and empires, and today it moves more subtly through daily routines and cultures. Today’s tea rituals continue to carry the weight of the nineteenth century, and despite this, the plant itself has remained resilient. Even through centuries of war and environmental destruction, the Camellia Sinensis lives on in plantations, gardens, labs, and even homes. While its meaning has changed over time, in different settings, the plant has remained a potent piece of human life and history. Every pot steeped and every kettle poured is more evidence of the enduring legacy of this influential plant. 
 
 The Camellia Sinensis has evolved from its early beginnings in Europe as a luxury drink. ‘Tea’ today can refer to matcha, sweet tea, bubble tea, chai, or the various herbal teas that exist in kitchen cabinets nowadays. Many cultures use tea in foods like Chinese tea-smoked duck and the Japanese Ochazuke, where green tea is poured over rice, or even green tea ice cream from modern-day grocery stores. Perhaps it is the taste of this plant or its deep ties to culture that continuously draw human attention. Regardless of whether it is raspberry green tea or the crates of tea that launched the Boston Tea Party, the tea plant has remained the same. The only difference is the multilayered meanings now attached to it: culturally, economically, and politically.
-
+<param ve-image
+	   src="wc:Zhangcha Duck at Restaurant Zen, Qianmen (20211008185323).jpg"
+	   caption="Tea-smoked duck.">
+<param ve-image
+	   src="wc:Variations of Taiwanese tapioca pearls.JPG"
+	   caption="A vareity of Taiwanese tapioca pearls used for tea.">
+<param ve-image
+	   src="wc:Herbal tea and a gnome (34558477400).jpg"
+	   caption="Grocery store herbal tea section.">
 			
 [^1]: Mügge, F.L.B., Prates, S.M.S., de Paula-Souza, J., Brandão, M.G.L. (2021). Bioactive Potential of Brazilian Plants Used as Food with Emphasis on Leaves and Roots. In: Jacob, M.C.M., Albuquerque, U.P. (eds) Local Food Plants of Brazil. Ethnobiology. Springer, Cham. https://doi.org/10.1007/978-3-030-69139-4_5
 [^2]: Guilherme Medeiros Antar, Roberto Baptista Pereira Almeida, Marco Antonio Palomares Accardo-Filho, Rafael Gomes Barbosa-Silva (2022) Tracking Brazil’s Colonization Footprints: First record of the tea plant (Camellia sinensis (L.) Kuntze - Theaceae) naturalized in the Atlantic Forest Hotspot. Webbia. Journal of Plant Taxonomy and Geography 77(1): 177-183. doi: 10.36253/jopt-12854
