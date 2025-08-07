@@ -49,8 +49,9 @@ Georgia became a tea-exporting powerhouse during the nineteenth century, and lat
 	   start=":0"
 	   end="2:05"
 	   caption="This is a video showing current Georgian tea-planters attempting to revive tea production to Soviet scales.">
-
-
+<param ve-image
+	   src="wc:1951 CPA 1603.jpg"
+	   caption="Soviet postage stamp showcasing Georgian tea harvest, 1951.">
 
 
 
