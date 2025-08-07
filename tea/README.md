@@ -83,7 +83,7 @@ With these issues in mind, many Georgian plantations have begun integrating more
 The meaning of tea is variable, it shifts across time and space, changing with the people and cultures that live with it. The case studies from the nineteenth century give a snapshot of what tea meant to different people in different regions; the plant itself was a symbol for revolution, the impetus for a series of bloody wars, and a highly coveted economic product. The multiplicity of these definitions demonstrates that the tea plant cannot be viewed in isolation, but has to be placed within the context of the environments that exist around it. 
 <param ve-map prefer-geojson
 	    center="0, 0"
-	     zoom="-.1"
+	     zoom="-1"
 	     title="This is a map of the Indonesian archipelago, the largest archipelago in the world.">
 
 
