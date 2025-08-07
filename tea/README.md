@@ -21,7 +21,7 @@ One of the colonies Portugal desired to utilize for tea plantations was Brazil. 
 
 <param ve-iframe
 	   src="https://archive.org/details/journalofvoyaget00call/page/n183"
-	   caption="A page from Maria Graham's *Journal of a Voyage to Brazil* describing tea plants in the Rio de Janeiro Botanical garden.">
+	   caption="A page from Maria Graham's *Journal of a Voyage to Brazil*, 1824,  describing tea plants in the Rio de Janeiro Botanical garden.">
 <param ve-image
 	   src="wc:Peninsular war collage.jpg"
 	   caption="This is a collage of various artworks depicting battle scenes from the Peninsular War.">
