@@ -82,9 +82,9 @@ With these issues in mind, many Georgian plantations have begun integrating more
 ### Meaning as Mutable
 The meaning of tea is variable, it shifts across time and space, changing with the people and cultures that live with it. The case studies from the nineteenth century give a snapshot of what tea meant to different people in different regions; the plant itself was a symbol for revolution, the impetus for a series of bloody wars, and a highly coveted economic product. The multiplicity of these definitions demonstrates that the tea plant cannot be viewed in isolation, but has to be placed within the context of the environments that exist around it. 
 <param ve-map prefer-geojson
-	    center="0, 0"
-	     zoom="-1"
-	     title="This is a map of the Indonesian archipelago, the largest archipelago in the world.">
+	    center="18, 0"
+	     zoom="1"
+	     title="This is a map showcasing the different locations discussed in this article.">
 
 
 Despite all of the separate transformations the plant has undergone, the Camellia Sinensis continues to exist ubiquitously in cultures globally. Historically, the plant changed the tides of wars and empires, and today it moves more subtly through daily routines and cultures. Today’s tea rituals continue to carry the weight of the nineteenth century, and despite this, the plant itself has remained resilient. Even through centuries of war and environmental destruction, the Camellia Sinensis lives on in plantations, gardens, labs, and even homes. While its meaning has changed over time, in different settings, the plant has remained a potent piece of human life and history. Every pot steeped and every kettle poured is more evidence of the enduring legacy of this influential plant. 
